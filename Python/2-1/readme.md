@@ -1,5 +1,5 @@
-## [Python 기본 문법]
+## [Python 기본 문법](https://github.com/lold2424/school_study/tree/main/Python/2-1/basic grammer)
 
-## [python Numpy]
+## [python Numpy](https://github.com/lold2424/school_study/tree/main/Python/2-1/Numpy)
 
-## [Python Pandas]
+## [Python Pandas](https://github.com/lold2424/school_study/tree/main/Python/2-1/Pandas)
