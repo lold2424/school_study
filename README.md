@@ -7,3 +7,5 @@
 ## 📌 [파이썬](https://github.com/lold2424/school_study/tree/main/Python)
 
 ## 📌 [리눅스](https://github.com/lold2424/school_study/tree/main/Linux)
+
+## 📌 [자료구조]
