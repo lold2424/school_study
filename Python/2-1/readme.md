@@ -5,9 +5,7 @@
 <details>
 
   <summary> 
-    <font size="50" color="green">
-      📘 python Numpy 
-     </font>
+    <font size="50" color="green">📘 python Numpy</font>
   </summary>
     
 
