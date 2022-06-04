@@ -1,6 +1,6 @@
 
 
-## 📕 [Python 기본 문법](https://github.com/lold2424/school_study/tree/main/Python/2-1/Basic_grammar)
+## 📕 Python 기본 문법
 
 ## 📘 python Numpy
 
@@ -8,4 +8,4 @@
 
 + ### [Numpy_indexing](https://github.com/lold2424/school_study/blob/main/Python/2-1/Numpy/Numpy_indexing.ipynb)
 
-## 📙 [Python Pandas](https://github.com/lold2424/school_study/tree/main/Python/2-1/Pandas)
+## 📙 Python Pandas
