@@ -4,7 +4,7 @@
 
 <details>
 
-  <summary> <font size="20">
+  <summary> <font size="50">
     📘 python Numpy </summary>
     </font>
 
