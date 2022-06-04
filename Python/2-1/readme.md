@@ -6,8 +6,10 @@
 
   <summary> 
     <font size="50" color="green">
-      📘 python Numpy </summary>
-    </font>
+      📘 python Numpy 
+     </font>
+  </summary>
+    
 
 ### [Numpy_array](https://github.com/lold2424/school_study/blob/main/Python/2-1/Numpy/Numpy_array.ipynb)
 
