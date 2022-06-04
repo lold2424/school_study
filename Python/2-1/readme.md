@@ -5,7 +5,7 @@
 <details>
 
   <summary> <font size="50">
-    📘 python Numpy </summary>
+    # 📘 python Numpy </summary>
     </font>
 
 ### [Numpy_array](https://github.com/lold2424/school_study/blob/main/Python/2-1/Numpy/Numpy_array.ipynb)
