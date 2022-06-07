@@ -36,7 +36,7 @@ Bash = 쉘
 
 - 예제
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%201.png)
+    ![Untitled](https://github.com/lold2424/school_study/tree/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%201.png)
     
 
 ### History 명령어 - 입력된 명령들을 기억하는 기능
