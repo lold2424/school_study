@@ -26,7 +26,7 @@ Bash = 쉘
 
 각 사용자를 위한 별명과 함수들을 정의
 
-![Untitled](/lold2424/school_study/tree/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled.png)
 
 ### Alias 명령어 - 문자열이 나타내는 기존 명령에 대해 새 이름을 별명 정의
 
