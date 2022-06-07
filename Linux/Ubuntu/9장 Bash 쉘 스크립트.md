@@ -46,12 +46,12 @@ Bash = 쉘
 
 - 예제
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%202.png)
+    ![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%202.png)
     
 
 ### 재실행
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%203.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%203.png)
 
 ### 변수 - **하나의 값만 저장 가능한 변수**
 
@@ -67,7 +67,7 @@ Bash = 쉘
 
 - 예제
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%204.png)
+    ![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%204.png)
     
 
 ### 리스트 변수 - **한 변수에 여러 개의 값을 저장할 수 있는 변수**
@@ -78,7 +78,7 @@ Bash = 쉘
 
 - 예제
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%205.png)
+    ![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%205.png)
     
 
 ### 표준입력 읽기 - 표준입력에서 한 줄을 읽어서 단어들을 변수들에 순서대로 저장
@@ -88,7 +88,7 @@ Bash = 쉘
 
 - 예제
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%206.png)
+    ![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%206.png)
     
 
 ### 쉘 변수
@@ -99,29 +99,29 @@ Bash = 쉘
 
 - 예제
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%207.png)
+    ![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%207.png)
     
 
 ### 사전 정의 환경변수
 
 아래의 것들은 미리 의미가 정해진 환경변수들이다.
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%208.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%208.png)
 
 - 예제
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%209.png)
+    ![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%209.png)
     
 
 ### 사전 정의 지역 변수
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2010.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2010.png)
 
 - 예제
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2011.png)
+    ![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2011.png)
     
-    ![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2012.png)
+    ![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2012.png)
     
 
 ## Bash 쉘 스크립트
@@ -135,7 +135,7 @@ Bash = 쉘
 
 첫 줄에 사용할 쉘을 지정
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2013.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2013.png)
 
 이 외에도 bash 대신 csh ,ksh, sh등이 있다.
 
@@ -147,72 +147,72 @@ Bash 문법은 본 쉘의 문법을 대부분 수용하면서 확장
 
 1. 에디터를 사용하여 Bash 스크립트 파일 작성
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2014.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2014.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2015.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2015.png)
 
 1. chmod를 이용하여 실행 모드로 변경
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2016.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2016.png)
 
 1. 스크립트 이름을 타이핑하여 실행
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2017.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2017.png)
 
 ## if문
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2018.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2018.png)
 
 if-then-else구문
 
 ### 비교 연산
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2019.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2019.png)
 
 ### 문자열 비교 연산
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2020.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2020.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2021.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2021.png)
 
 ### 파일 관련 연산
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2022.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2022.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2023.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2023.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2024.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2024.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2025.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2025.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2026.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2026.png)
 
 ### 부울 연산자
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2027.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2027.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2028.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2028.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2029.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2029.png)
 
 ### 산술 연산자
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2030.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2030.png)
 
 ### 중첩 조건문
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2031.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2031.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2032.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2032.png)
 
 ### 스위치
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2033.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2033.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2034.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2034.png)
 
 ### 반복문 for
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2035.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2035.png)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20Bash%20%E1%84%89%E1%85%B0%E1%86%AF%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%206ef63aa450b14db9b99cd99ac6086cae/Untitled%2036.png)
+![Untitled](https://github.com/lold2424/school_study/blob/main/Linux/Ubuntu/9%EC%9E%A5%20Bash%20%EC%89%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Untitled%2036.png)
