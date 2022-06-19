@@ -2,8 +2,6 @@
 
 ## 2-1 학기
 
-## 📌 [자바](https://github.com/lold2424/school_study/tree/main/Java)
-
 ## 📌 [파이썬](https://github.com/lold2424/school_study/tree/main/Python)
 
 ## 📌 [리눅스](https://github.com/lold2424/school_study/tree/main/Linux)
