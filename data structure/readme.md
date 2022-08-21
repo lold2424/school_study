@@ -8,7 +8,7 @@
 
 ## [11. 그래프(2)](https://github.com/lold2424/school_study/blob/main/data%20structure/11%20%EA%B7%B8%EB%9E%98%ED%94%84(2).md)
 
-## [12. 정렬](https://github.com/lold2424/school_study/tree/main/data%20structure/12%20%EC%A0%95%EB%A0%AC)
+## [12. 정렬](https://github.com/lold2424/school_study/blob/main/data%20structure/12%20%EC%A0%95%EB%A0%AC.md)
 
 ## [13. 탐색](https://github.com/lold2424/school_study/blob/main/data%20structure/13%20%ED%83%90%EC%83%89.md)
 
