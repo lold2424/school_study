@@ -5,3 +5,5 @@
 ## 📌 [리눅스](https://github.com/lold2424/school_study/tree/main/Linux)
 
 ## 📌 [자료구조](https://github.com/lold2424/school_study/tree/main/data%20structure)
+
+## 📌 [컴퓨터구조](https://github.com/lold2424/school_study/tree/main/computer%20architecture)
