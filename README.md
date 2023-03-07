@@ -7,3 +7,5 @@
 ## 📌 [자료구조](https://github.com/lold2424/school_study/tree/main/data%20structure)
 
 ## 📌 [컴퓨터구조](https://github.com/lold2424/school_study/tree/main/computer%20architecture)
+
+## 📌 [컴퓨터 네트워크](https://github.com/lold2424/school_study/tree/main/Computer_network)
